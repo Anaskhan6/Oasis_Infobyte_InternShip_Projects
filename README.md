@@ -1,8 +1,8 @@
-#Voice Assistant, Password Generator, and Weather App with Python
+# Voice Assistant, Password Generator, and Weather App with Python
 
 This repository contains Python-based projects featuring graphical user interfaces (GUIs), offering a user-friendly experience for interacting with their core functionalities.
 
-Projects
+## Projects
 
 1. Voice Assistant
 
@@ -23,6 +23,8 @@ Install dependencies: tkinter, speech_recognition, pyttsx3, datetime, web browse
 
 Run oibsip_1.py
 Start speaking commands after the "Listening..." indicator appears.
+
+
 2. Password Generator
 
 Purpose: Creates secure passwords to protect online accounts.
