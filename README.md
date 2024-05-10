@@ -28,30 +28,43 @@ Start speaking commands after the "Listening..." indicator appears.
 2. Password Generator
 
 Purpose: Creates secure passwords to protect online accounts.
+
 Features:
 Customizable password length
 Options to include lowercase, uppercase, numbers, and symbols
 One-click copy to clipboard for ease of use
+
 Screenshot:
+
 Installation Dependencies: string, tkinter, random, pyperclip
+
 Usage:
 Run oibsip_3.py
 Adjust the desired password settings
 Click "Generate Password"
 Use the "Copy to Clipboard" button.
+
+
 3. Weather App
 
 Purpose: Displays current weather conditions and forecasts for a specified location
+
 Features:
 User-friendly interface with clear visuals
 Displays temperature, weather description, humidity, and wind speed
 Includes a weather icon for quick visual interpretation
+
 Screenshot:
+![image](https://github.com/Anaskhan6/Oasis_Infobyte_InternShip_Projects/assets/99463039/193ea760-30dd-40a8-b04f-8354c44f5fee)
+
+
 Installation: request, tkinter, PIL(Pillow)
+
 Usage:
 Run oibsip_4.py
 Enter a city name and click "Get Weather"
-Technologies Used
+
+### Technologies Used
 
 Python: Core programming language
 Tkinter: GUI toolkit
